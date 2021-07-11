@@ -1,11 +1,9 @@
 openapi: 3.0.0
-meta:
-  title: Example Developer Portal
-  description: Learn how to work with Example APIs
-logo: logo.png
+
 info:
   version: "1.0"
   title: Webhook Relay
+  logo: logo.png
   description: >
     # Introduction
 
