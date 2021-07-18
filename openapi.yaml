@@ -6,6 +6,10 @@ logo: ./logo.png
 info:
   version: "1.0"
   title: Webhook Relay
+  x-logo:
+    url: "https://redocly.github.io/redoc/petstore-logo.png"
+    backgroundColor: "#FFFFFF"
+    altText: "Petstore logo"
   description: >
     # Introduction
 
